@@ -162,7 +162,7 @@ class ByGMail:
                             email_data['body'] += text if text is not None else str()
 
                 emails.append(email_data)
-
+         return emails
 
 
         except TypeError as e:
