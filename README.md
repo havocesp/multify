@@ -3,7 +3,7 @@ Just another email notifier library.
 
 
  * __Author__: Daniel J. Umpierrez
- * __License__: MIT
+ * __License__: UNLICENSE
  * __Version__: 0.2.0
 
 # ChangeLog
