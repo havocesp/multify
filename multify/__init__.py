@@ -12,7 +12,7 @@ from gmail import ByGMail
 
 __version__ = '0.0.1'
 __author__ = 'Daniel J. Umpierrez'
-__license__ = 'MIT'
+__license__ = 'UNLICENSE'
 
 BASE_DIR = path.dirname(path.dirname(__file__))
 sys.path.append(BASE_DIR)
